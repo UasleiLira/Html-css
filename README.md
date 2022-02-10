@@ -1,2 +1,2 @@
 # Html-css
- Site criado por min no curso em video
+ Site criado por mim no curso em video.
